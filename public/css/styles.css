@@ -32,4 +32,5 @@ body {
 .bottom {
   border-top-right-radius: 0;
   border-top-left-radius: 0;
+  margin-bottom: 0.6rem;
 }
